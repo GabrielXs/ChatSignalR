@@ -1,0 +1,2 @@
+rootProject.name='ChatSignalR'
+include ':app'
